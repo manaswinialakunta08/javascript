@@ -1,20 +1,19 @@
-| Topic                  | Use             |
-| ---------------------- | --------------- |
-| Variables & data types | ✅ Chai aur Code |
-| Operators              | ✅               |
-| Conditions             | ✅               |
-| Loops                  | ✅               |
-| Strings                | ✅               |
-| Arrays                 | ✅               |
-| Functions              | ✅               |
-| Objects                | ✅               |
-| Array methods          | ✅               |
-| DOM                    | ✅               |
-| Events                 | ✅               |
-| ES6+                   | ✅               |
-| Classes                | ✅               |
-| Async JavaScript       | ✅               |
-| Promises               | ✅               |
-| Async/await            | ✅               |
-| Fetch/API              | ✅               |
-| Projects               | ✅               |
+| Topic                  
+| Variables & data types 
+| Operators             
+| Conditions             
+| Loops                  
+| Strings                
+| Arrays               
+| Functions              
+| Objects                
+| Array methods          
+| DOM                    
+| Events                 
+| ES6+                  
+| Classes                
+| Async JavaScript      
+| Promises               
+| Async/await        
+| Fetch/API              
+| Projects              
